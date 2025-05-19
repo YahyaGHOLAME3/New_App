@@ -6,10 +6,10 @@ de sommets dans un graphe pondéré.
 
 Exemple de graphe:
 A ---4--- B
-|\       /|
-| \     / |
+|\\       /|
+| \\     / |
 6  2   3  1
-|   \ /   |
+|   \\ /   |
 C ---1--- D
 """
 
