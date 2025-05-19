@@ -1,0 +1,3 @@
+# Tkinter est inclus dans CPython, aucune dépendance externe.
+# Pour créer l'exécutable :
+pyinstaller==6.5.0
